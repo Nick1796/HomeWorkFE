@@ -1,0 +1,20 @@
+HomeWork1<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Starta institute</h1> 
+        <div class="image container">
+            <img src="./Starta.jpg" alt="">     
+    </div>
+    <p>For our startup, Biomma, the program was the entrance door to the entire entrepreneurship environment in the US. We understood how to network our way in this market, and what first steps to take with lots of ideas on what we need to improve to scale our product. We have already had meetings with investors and potential partners on the programs offline bootcamp in New York.</p>
+    <p>The program is a good fit for people with big ambitions as it combines a community of like-minded people, expert-led workshops, practical case studies, and unparalleled support to make your first steps in entrepreneurship.</p>
+    <p>At the C-Level program, I launched a startup called IpSign. It bridges real-world and web3 by offering fully automated copyright protection for digital assets. We have already tested the product for 78,000 avatars for a gaming metaverse.</p>
+    <div>
+</body>
+</html>
