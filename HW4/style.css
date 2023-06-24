@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.image_container img {
+    max-width: 350px;
+}
+.posts__items {
+    padding: 21px;
+    margin: 10px;
+    background-color: 15px solid white;
+    border: 1px solid black ;
+    border-radius: 20px;
+    color: black;
+    text-align: center
+}
