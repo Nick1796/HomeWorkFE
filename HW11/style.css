@@ -1,0 +1,59 @@
+/* #square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: background-color 0.3s, width 0.3s, height 0.3s;
+  }
+  
+  #square.small {
+    width: 100px;
+    height: 100px;
+  }
+  
+  button {
+    margin-top: 10px;
+  } */
+
+
+  /* #colorSquare {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    transition: background-color 0.3s;
+  }
+  
+  button {
+    margin-top: 10px;
+  } */
+
+  /* #resizeSquare {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    transition: width 0.3s, height 0.3s;
+  }
+  
+  button {
+    margin-top: 10px;
+  } */
+
+
+  /* .root {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  button {
+    margin-top: 10px;
+  } */
+
+  .root {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
